@@ -1,0 +1,10 @@
+{% load account %}{% user_display user as user_display %}{% load i18n %}{% autoescape off %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}
+Bun venit pe site-ul {{ site_name }}, {{ user_display }}!
+
+Primești acest e-mail deoarece un cont a fost creat folosind această adresă e-mail.
+Te rugăm să confirmi că dorești activarea contului accesând link-ul de mai jos:{% endblocktrans %}{% endautoescape %}
+
+{{ activate_url }}
+
+{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Mulțumim!
+{{ site_domain }}{% endblocktrans %}

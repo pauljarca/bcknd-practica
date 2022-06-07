@@ -1,0 +1,112 @@
+[
+  {
+    "model": "faq.faq",
+    "pk": "07ef487b-405f-481b-9b8a-d9284a9c4c75",
+    "fields": {
+      "order": 1,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:35:54.392Z",
+      "question": "Voi avea profesor la aceast\u0103 disciplin\u0103?",
+      "answer": "<p>Va exista un cadru didactic supervizor \u0219i un &icirc;ndrum\u0103tor de practic\u0103, persoan\u0103 desemnat\u0103 de partenerul de practic\u0103, care va asigura respectarea condi\u0163iilor de preg\u0103tire \u015fi dob&acirc;ndire a competen\u0163elor profesionale.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "14c3ef08-0a63-41cc-b9a8-8b7e4b380c86",
+    "fields": {
+      "order": 8,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-17T08:36:24.485Z",
+      "question": "Ce se \u00eent\u00e2mpl\u0103 daca nu fac practic\u0103?",
+      "answer": "<p>Vei primi calificativul &ldquo;nepromovat&rdquo; \u0219i nu vei avea creditele corespunz\u0103toare practicii.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "1abbcc3f-149c-4621-a043-e01415e3e3b6",
+    "fields": {
+      "order": 7,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:36:51.149Z",
+      "question": "Dac\u0103 am fost la Liga AC LABS se poate echivala practica de var\u0103?",
+      "answer": "<p>Orele desf\u0103\u0219urate &icirc;n cadrul <a href=\"https://labs.ligaac.ro\">Liga AC LABS</a> <strong>2018</strong> pot fi considerate ore de practic\u0103, ele se vor reduce din num\u0103rul total de ore de practic\u0103.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "2f96379e-670c-45c8-ad3f-c5beee950a39",
+    "fields": {
+      "order": 9,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:36:05.560Z",
+      "question": "Ce acte am nevoie de la firm\u0103?",
+      "answer": "<p>O adeverin\u021b\u0103 &icirc;n care s\u0103 fie men\u021bionate perioada de practic\u0103 \u0219i num\u0103rul de ore.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "5a8a6e30-2e74-4459-9c7e-47783f16b06a",
+    "fields": {
+      "order": 4,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:36:29.144Z",
+      "question": "Nota de la practic\u0103 conteaz\u0103 la medie?",
+      "answer": "<p>Fiind un colocviu, practica se va nota cu un calificativ, promovat, respectiv nepromovat.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "7926efeb-1b1c-4b76-ab39-eeae6a817fc1",
+    "fields": {
+      "order": 3,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:36:29.140Z",
+      "question": "Cum sunt evaluat?",
+      "answer": "<p>Evaluarea se va face printr-un colocviu &icirc;n cadrul c\u0103ruia studentul va prezenta un caiet de practic\u0103, &icirc;n care se va detalia modul de rezolvare a temei/proiectului de practic\u0103.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "8ac07495-6329-4a1d-8dd8-0393f8064896",
+    "fields": {
+      "order": 5,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-04-01T16:35:09.356Z",
+      "question": "C\u00e2te ore trebuie s\u0103 fac practic\u0103?",
+      "answer": "<p>Num\u0103rul de ore difer\u0103 &icirc;n func\u021bie de specializare. Pentru anul 3 <strong>CTI/IS</strong> se prev\u0103d <strong>240</strong> de ore de practic\u0103, iar pentru anul 2 <strong>Informatic\u0103</strong>, <strong>180</strong> de ore.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "9bf05595-4f62-4ecb-8abd-4053bfc3c70c",
+    "fields": {
+      "order": 2,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:36:26.219Z",
+      "question": "Unde fac practica?",
+      "answer": "<p>Se poate face practica la orice firma ce desf\u0103\u0219oar\u0103 o activitate &icirc;n corela\u021bie cu specializarea, adic\u0103 orice firm\u0103 de IT&amp;C.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "f9ba2983-f18f-4b47-b8b4-81676af5b164",
+    "fields": {
+      "order": 6,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-17T08:36:41.515Z",
+      "question": "Dac\u0103 am lucrat pot echivala practica?",
+      "answer": "<p>Practica trebuie realizat\u0103 &icirc;n anul universitar curent. Nu se echivaleaz\u0103 cu orele lucrate &icirc;nainte de &icirc;nceperea anului universitar.</p>"
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": "ff5911bc-f308-45f4-8bee-570a54d756f8",
+    "fields": {
+      "order": 0,
+      "created_date": "2018-03-15T01:01:12.226Z",
+      "modified_date": "2018-03-15T13:35:54.388Z",
+      "question": "Ce este practica?",
+      "answer": "<p><strong>Stagiu de practic\u0103</strong> - activitatea desf\u0103\u015furat\u0103 de studen\u0163i, &icirc;n conformitate cu planul de &icirc;nv\u0103\u0163\u0103m&acirc;nt, care are drept scop verificarea aplicabilit\u0103\u0163ii cuno\u015ftin\u0163elor teoretice &icirc;nsu\u015fite de ace\u015ftia &icirc;n cadrul programului de instruire.</p>"
+    }
+  }
+]

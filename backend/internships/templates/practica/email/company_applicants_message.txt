@@ -1,0 +1,10 @@
+{% load i18n %}{% blocktrans with site_domain=current_site.domain company_name=company.name %}Bună ziua,
+
+La următorul URL puteți accesa datele studenților care și-au exprimat, în portalul {{ site_domain }}, interesul legat de efectuarea practicii de vară în cadrul {{ company_name }}:
+
+{{ export_url }}
+
+Pentru orice probleme, contacați-ne prin răspuns la acest mesaj.
+
+Cu stimă,
+echipa {{ site_domain }}{% endblocktrans %}

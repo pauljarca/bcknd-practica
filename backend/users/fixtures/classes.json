@@ -1,0 +1,50 @@
+[
+  {
+    "model": "users.studentclass",
+    "pk": "f2d6971c-a7c5-4da6-88c7-3a2ec72c0428",
+    "fields": {
+      "study_year": 0,
+      "name": "TEST"
+    }
+  },
+  {
+    "model": "users.studentclass",
+    "pk": "96549df0-e972-4201-810c-77ba4c3235cb",
+    "fields": {
+      "study_year": 2,
+      "name": "Info ID"
+    }
+  },
+  {
+    "model": "users.studentclass",
+    "pk": "c88fdce9-0e80-4add-9f4c-e63e7ccf3020",
+    "fields": {
+      "study_year": 2,
+      "name": "Info"
+    }
+  },
+  {
+    "model": "users.studentclass",
+    "pk": "e37b07b6-9230-4917-bde1-91447256d138",
+    "fields": {
+      "study_year": 3,
+      "name": "CTI ENG"
+    }
+  },
+  {
+    "model": "users.studentclass",
+    "pk": "e9d80d43-c7a6-491c-a2bd-dda2cd0545ef",
+    "fields": {
+      "study_year": 3,
+      "name": "CTI"
+    }
+  },
+  {
+    "model": "users.studentclass",
+    "pk": "ed2b5e82-f15f-491b-a6a9-0cf662f5881c",
+    "fields": {
+      "study_year": 3,
+      "name": "IS"
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "009e0703-a74b-4266-a869-bd859ae3e999",
+    "fields": {
+      "company_name": "Continental Automotive Romania SRL",
+      "name": "Design Patterns & OOP",
+      "slug": "design-patterns-and-oop",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "02f02de4-aeb4-4483-8106-9bb99e5804b9",
+    "fields": {
+      "company_name": "NOKIA",
+      "name": "Software activities in Nokia Technology Center for Mobile Networks - 2",
+      "slug": "sw-activities-in-nokia-technology-center-2",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "0cce9668-c95b-4c66-8067-c9758f00364d",
+    "fields": {
+      "company_name": "ATOS IT SOLUTIONS & SERVICES",
+      "name": "Oracle Database Administration",
+      "slug": "oracle-database-administration",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "0f48720d-5f85-4022-861a-d8346d3adbaf",
+    "fields": {
+      "company_name": "UnifiedPost",
+      "name": "Rails App in 10 steps",
+      "slug": "rails-app-10-steps",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "0f548bf5-1e6d-4cd4-922c-0cb8c6e4b888",
+    "fields": {
+      "company_name": "NOKIA",
+      "name": "Software activities in Nokia Technology Center for Mobile Networks - 1",
+      "slug": "sw-activities-in-nokia-technology-center-1",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "1b29390d-45c8-43ba-90e7-f202f4ccfd9d",
+    "fields": {
+      "company_name": "Cloudbase Solutions",
+      "name": "Journey into the Clouds (DevOps Lab)",
+      "slug": "journey-into-the-clouds",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "21518e72-d343-40c1-bbfb-0664dec355e5",
+    "fields": {
+      "company_name": "LASTING Software",
+      "name": "\u00cenc\u0103 un Laborator de \"M\u00e2zg\u0103leli pe Ecran\"",
+      "slug": "mazgaleli-pe-ecran",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "22b54a50-5a37-4f44-b754-49449fc1cd41",
+    "fields": {
+      "company_name": "Continental Automotive Romania SRL",
+      "name": "Trust is Good, Test is Better \u2013 Introducere \u00een testarea automotive.",
+      "slug": "introducere-in-testare",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "32b68b9f-8e68-411d-807d-5ab05c07b676",
+    "fields": {
+      "company_name": "Bitdefender",
+      "name": "Concepte de securitate cibernetic\u0103",
+      "slug": "concepte-securitate-cibernetica",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "3337ff36-649b-4c89-8c46-7c8b685b2067",
+    "fields": {
+      "company_name": "INCUBOXX",
+      "name": "How to start a startup",
+      "slug": "how-to-start-a-startup",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "51b1b20b-726e-4ff5-9841-dca3cfb31a8a",
+    "fields": {
+      "company_name": "Visma Software",
+      "name": "Mini robot inteligent folosit \u00een logistic\u0103",
+      "slug": "mini-robot-inteligent",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "52deb0ee-b2ff-4a00-bd18-42d884792ba4",
+    "fields": {
+      "company_name": "Elektrobit Automotive Romania",
+      "name": "Develop Linux Applications for Autonomous Driving / Dezvoltarea de aplica\u021bii Linux pentru ma\u0219inile autonome",
+      "slug": "develop-linux-apps-for-autonomous-driving",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "54612936-6092-46e4-8d28-2e0346196123",
+    "fields": {
+      "company_name": "BTC Embedded Systems Rom\u00e2nia SRL",
+      "name": "Dezvoltarea unei aplica\u021bii Eclipse4 Rich Client Platform (RCP)",
+      "slug": "dezvoltare-aplicatie-eclipse4-rcp",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "5c1cc0fb-9ec7-42d0-bddb-0a9d349b15f6",
+    "fields": {
+      "company_name": "ATOS IT SOLUTIONS & SERVICES",
+      "name": "Izzi Project Management",
+      "slug": "izzi-project-management",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "626c96ed-cc96-48f7-aa36-97511d530c06",
+    "fields": {
+      "company_name": "Autoliv",
+      "name": "Robo Hide & Seek",
+      "slug": "robo-hide-and-seek",
+      "total_hours": 30
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "6e1032ba-45b8-466a-a895-4fe4cdd1c508",
+    "fields": {
+      "company_name": "Beespeed - Timisoara Engineering Centre",
+      "name": "Active Safety Systems \u00een Automotive",
+      "slug": "active-safety-sistems",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "70ed1b02-951a-47fb-b9b8-a1e681f56dab",
+    "fields": {
+      "company_name": "BearingPoint",
+      "name": "Web Application Development: \u201cSprint from Zero to App\u201d",
+      "slug": "java-enterprise-app-dev",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "71df54da-4adf-487d-82c4-6928a1ba404a",
+    "fields": {
+      "company_name": "Irian Software Development",
+      "name": "Fullstack web development",
+      "slug": "fullstack-web-dev",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "72a6e51e-3236-44ca-a18f-fb722b898591",
+    "fields": {
+      "company_name": "Continental Automotive Romania SRL",
+      "name": "Embedded Software Development",
+      "slug": "embedded-sw-dev",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "82ef3c8a-3d7f-4377-a9d5-f0682cb200fb",
+    "fields": {
+      "company_name": "ATOS IT SOLUTIONS & SERVICES",
+      "name": "Teaching the World to Cloud",
+      "slug": "teaching-the-world-to-cloud",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "890569c1-e5b6-427e-b110-12e363bd8d88",
+    "fields": {
+      "company_name": "NOKIA",
+      "name": "Web Interfaces, Services & Components designed for dedicated Databases",
+      "slug": "web-interfaces-services-and-components-for-dedicated-databases",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "8a5672d1-5eb6-4fa3-9b53-5fc2903b19b6",
+    "fields": {
+      "company_name": "Microsoft Romania",
+      "name": "C# Lab",
+      "slug": "csharp-lab",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "97f39022-8097-47f5-9ec4-d4b9621f5f2c",
+    "fields": {
+      "company_name": "ATOS IT SOLUTIONS & SERVICES",
+      "name": "Application Technology Management Insights",
+      "slug": "app-technology-management-insights",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "ab26cc4e-ad70-40e8-8c9a-fac7ba9ee814",
+    "fields": {
+      "company_name": "HELLA Rom\u00e2nia",
+      "name": "Radar development for autonomous cars",
+      "slug": "radar-dev-for-autonomous-cars",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "ae5cd38b-3a49-4161-9e5d-dfe06bafcfc4",
+    "fields": {
+      "company_name": "Softvision",
+      "name": "Cryptocurrencies meet Ruby",
+      "slug": "cryptocurrencies-meet-ruby",
+      "total_hours": 30
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "b81c93ec-ab26-4716-9f38-c3a7744c2402",
+    "fields": {
+      "company_name": "Movidius - an Intel company",
+      "name": "Myriad Labs",
+      "slug": "myriad-labs",
+      "total_hours": 40
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "c04a4e3a-ff25-40f8-b42e-1928b2c73bba",
+    "fields": {
+      "company_name": "Continental Automotive Romania SRL",
+      "name": "Mobilitatea ast\u0103zi \u0219i \u00een viitor: aplica\u021bii software \u00een automotive",
+      "slug": "mobilitatea-astazi",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "c3537716-7e85-458f-87ad-3b4c5310dd1b",
+    "fields": {
+      "company_name": "BusyMachines",
+      "name": "Functional Programming - Modern Web Development with Scala",
+      "slug": "modern-web-dev-with-scala",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "ce603bf7-7d0a-4498-981b-9f905b0f3cad",
+    "fields": {
+      "company_name": "WATERFORD RESEARCH ROMANIA",
+      "name": "Cloud Applications \u00een Java folosind AWS",
+      "slug": "cloud-applications-java-aws",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "cf9331af-0089-447b-aca9-0e0034d1920b",
+    "fields": {
+      "company_name": "EtherGate",
+      "name": "Tehnici de design \u0219i verificare electronic\u0103 digital\u0103",
+      "slug": "tehnici-design-verificare-electronica-digitala",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "d1156c6c-1050-49ef-9cb8-d50a415edf83",
+    "fields": {
+      "company_name": "Amdaris Romania SRL",
+      "name": "SPA with Angular and .NET Core - Building modern web apps",
+      "slug": "spa-with-angular-dotnet-core",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "d440f57f-b946-46f1-88fc-6a2176afa25a",
+    "fields": {
+      "company_name": "FEV ECE Automotive",
+      "name": "Dezvoltare Software \u0219i testare",
+      "slug": "dezvoltare-sw-si-testare",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "d5c4c84d-aa60-42df-aab9-472f4a10ea7b",
+    "fields": {
+      "company_name": "HELLA Rom\u00e2nia",
+      "name": "Advanced motor control in automotive ",
+      "slug": "advanced-motor-control",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "e23ffe9b-2d22-4b87-b3b6-a8641b296a4d",
+    "fields": {
+      "company_name": "SafeFleet",
+      "name": "Web development using Python and JavaScript",
+      "slug": "web-dev-using-python-and-js",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "f11129f3-dea6-4360-b774-3f3455506baf",
+    "fields": {
+      "company_name": "NOKIA",
+      "name": "Breaking Hardware Limitations: Using Cloud services in today's networks",
+      "slug": "breaking-hardware-limitations",
+      "total_hours": 20
+    }
+  },
+  {
+    "model": "students.ligaaclabslab",
+    "pk": "f25c8fe1-a908-4021-b74f-f464141129ae",
+    "fields": {
+      "company_name": "Microsoft Romania",
+      "name": "Microsoft Academy",
+      "slug": "microsoft-academy",
+      "total_hours": 40
+    }
+  }
+]
